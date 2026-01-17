@@ -8,6 +8,14 @@
 <table>
   <tr>
     <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=js" width="40" height="40" alt="JavaScript" />
+      <br />JavaScript
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=ts" width="40" height="40" alt="TypeScript" />
+      <br />TypeScript
+    </td>
+    <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=react" width="40" height="40" alt="React" />
       <br />React
     </td>
@@ -16,9 +24,11 @@
       <br />Next.js
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=express" width="40" height="40" alt="ExpressJS" />
-      <br />ExpressJS
+      <img src="https://skillicons.dev/icons?i=py" width="40" height="40" alt="Python" />
+      <br />Python
     </td>
+  </tr>
+  <tr>
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=fastapi" width="40" height="40" alt="FastAPI" />
       <br />FastAPI
@@ -27,8 +37,10 @@
       <img src="https://skillicons.dev/icons?i=flask" width="40" height="40" alt="Flask" />
       <br />Flask
     </td>
-  </tr>
-  <tr>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=express" width="40" height="40" alt="ExpressJS" />
+      <br />ExpressJS
+    </td>
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=postgres" width="40" height="40" alt="PostgreSQL" />
       <br />PostgreSQL
@@ -37,6 +49,8 @@
       <img src="https://skillicons.dev/icons?i=docker" width="40" height="40" alt="Docker" />
       <br />Docker
     </td>
+  </tr>
+  <tr>
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=tailwind" width="40" height="40" alt="Tailwind" />
       <br />Tailwind
@@ -46,8 +60,16 @@
       <br />Postman
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=py" width="40" height="40" alt="Python" />
-      <br />Python
+      <img src="https://skillicons.dev/icons?i=git" width="40" height="40" alt="Git" />
+      <br />Git
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=linux" width="40" height="40" alt="Linux" />
+      <br />Linux
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=figma" width="40" height="40" alt="Figma" />
+      <br />Figma
     </td>
   </tr>
 </table>
