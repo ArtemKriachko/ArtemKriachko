@@ -1,16 +1,67 @@
-## Hi there 👋
+# 👋 Привіт, я Артем | Full-Stack Developer
 
-<!--
-**ArtemKriachko/ArtemKriachko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=ArtemKriachko&color=white&style=flat-square" alt="Views" />
+</p>
 
-Here are some ideas to get you started:
+### 🛠️ Мій технологічний стек
+<table>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=react" width="40" height="40" alt="React" />
+      <br />React
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=nextjs" width="40" height="40" alt="Next.js" />
+      <br />Next.js
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=express" width="40" height="40" alt="ExpressJS" />
+      <br />ExpressJS
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=fastapi" width="40" height="40" alt="FastAPI" />
+      <br />FastAPI
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=flask" width="40" height="40" alt="Flask" />
+      <br />Flask
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=postgres" width="40" height="40" alt="PostgreSQL" />
+      <br />PostgreSQL
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=docker" width="40" height="40" alt="Docker" />
+      <br />Docker
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=tailwind" width="40" height="40" alt="Tailwind" />
+      <br />Tailwind
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=postman" width="40" height="40" alt="Postman" />
+      <br />Postman
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=py" width="40" height="40" alt="Python" />
+      <br />Python
+    </td>
+  </tr>
+</table>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Останні проекти
+* **[VoidLink](https://github.com/ArtemKriachko/voidlink)** — Premium URL shortener with real-time analytics and Docker-first architecture.
+
+### 📊 Моя статистика
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=ArtemKriachko&show_icons=true&theme=dark&bg_color=050505&title_color=white&text_color=777777&border_color=222222" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArtemKriachko&layout=compact&theme=dark&bg_color=050505&title_color=white&text_color=777777&border_color=222222" height="150" />
+</p>
+
+---
+<p align="center">
+  <i>"Building high-performance web systems with minimal aesthetics."</i>
+</p>
