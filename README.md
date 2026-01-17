@@ -57,8 +57,14 @@
 
 ### 📊 Моя статистика
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=ArtemKriachko&show_icons=true&theme=dark&bg_color=050505&title_color=white&text_color=777777&border_color=222222&hide_border=false&include_all_commits=true" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArtemKriachko&layout=compact&theme=dark&bg_color=050505&title_color=white&text_color=777777&border_color=222222&hide_border=false" height="150" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=ArtemKriachko&show_icons=true&theme=dark&bg_color=050505&title_color=white&text_color=777777&border_color=222222" height="150" />
+  
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ArtemKriachko&layout=compact&theme=dark&bg_color=050505&title_color=white&text_color=777777&border_color=222222" height="150" />
+</p>
+
+### 🔥 Мій актив (Streaks)
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ArtemKriachko&theme=dark&background=050505&fire=white&ring=white&currStreakLabel=white" height="150" />
 </p>
 
 ---
