@@ -67,10 +67,6 @@
       <img src="https://skillicons.dev/icons?i=linux" width="40" height="40" alt="Linux" />
       <br />Linux
     </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=figma" width="40" height="40" alt="Figma" />
-      <br />Figma
-    </td>
   </tr>
 </table>
 
