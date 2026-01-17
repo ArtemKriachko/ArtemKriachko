@@ -1,8 +1,5 @@
 # 👋 Привіт, я Артем | Full-Stack Developer
 
-<p align="left">
-  <img src="https://profile-counter.glitch.me/ArtemKriachko/count.svg" alt="Views" />
-</p>
 
 ### 🛠️ Мій технологічний стек
 <table>
@@ -80,10 +77,6 @@
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ArtemKriachko&layout=compact&theme=dark&bg_color=050505&title_color=white&text_color=777777&border_color=222222" height="150" />
 </p>
 
-### 🔥 Мій актив (Streaks)
-<p align="left">
-  <img src="https://streak-stats.demolab.com/?user=ArtemKriachko&theme=dark&background=050505&fire=white&ring=white&currStreakLabel=777777" height="150" alt="streak stats" />
-</p>
 
 ---
 <p align="center">
