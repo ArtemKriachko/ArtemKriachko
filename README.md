@@ -1,7 +1,7 @@
 # 👋 Привіт, я Артем | Full-Stack Developer
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=ArtemKriachko&color=white&style=flat-square" alt="Views" />
+  <img src="https://profile-counter.glitch.me/ArtemKriachko/count.svg" alt="Views" />
 </p>
 
 ### 🛠️ Мій технологічний стек
@@ -82,7 +82,7 @@
 
 ### 🔥 Мій актив (Streaks)
 <p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ArtemKriachko&theme=dark&background=050505&fire=white&ring=white&currStreakLabel=white" height="150" />
+  <img src="https://streak-stats.demolab.com/?user=ArtemKriachko&theme=dark&background=050505&fire=white&ring=white&currStreakLabel=777777" height="150" alt="streak stats" />
 </p>
 
 ---
